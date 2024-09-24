@@ -2,6 +2,8 @@ import git
 
 studentName = "Kandika Prima"
 teacherName = "Putra"
+
+
 local_repo_path = "C:/Github Koding Next/Python-Arcade"
 
 def git_pull_push(repo_path, student, teacher):
@@ -10,7 +12,7 @@ def git_pull_push(repo_path, student, teacher):
 
         repo.git.execute("git pull")
         repo.git.execute("git add .")
-        repo.git.execute(f'''git commit -m "Add Python Script"''')
+        repo.git.execute(f'''git commit -m "Add {student} Project by {teacher}"''')
         repo.git.execute("git push")
 
         print(f"File project {student} pada folder {repo_path} berhasil di upload")
