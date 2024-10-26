@@ -1,0 +1,14 @@
+{ "columns":13,
+ "image":"..\/..\/..\/..\/Assets - Python Arcade Games\/Lesson 12 - 15\/Assets\/all.png",
+ "imageheight":192,
+ "imagewidth":208,
+ "margin":0,
+ "name":"C",
+ "spacing":0,
+ "tilecount":156,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}
