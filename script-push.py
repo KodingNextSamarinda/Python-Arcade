@@ -1,7 +1,7 @@
 import git
 
-studentName = "Kandika Prima"
-teacherName = "Putra"
+studentName = "Vio Dio"
+teacherName = "Kandika"
 
 
 local_repo_path = "C:/Github Koding Next/Python-Arcade"
