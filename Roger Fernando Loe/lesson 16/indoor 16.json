@@ -1,0 +1,14 @@
+{ "columns":57,
+ "image":"..\/lesson 13 - 15\/Asset\/kenney_roguelike-rpg-pack\/Spritesheet\/roguelikeSheet_transparent.png",
+ "imageheight":526,
+ "imagewidth":968,
+ "margin":0,
+ "name":"indoor",
+ "spacing":1,
+ "tilecount":1767,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

@@ -1,7 +1,7 @@
 import git
 
-studentName = "Relocate-Reset"
-teacherName = "Kandika"
+studentName = "Mr. Ahmad's Students on Arcade Python"
+teacherName = "Mr. Ahmad Yazid"
 
 
 local_repo_path = "C:/Github Koding Next/Python-Arcade"

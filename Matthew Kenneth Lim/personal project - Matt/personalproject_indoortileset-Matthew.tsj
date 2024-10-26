@@ -1,0 +1,14 @@
+{ "columns":27,
+ "image":"..\/..\/..\/..\/Assets - Python Arcade Games\/Up - Down Maps Assets\/kenney_roguelike-indoors\/Tilesheets\/roguelikeIndoor_transparent.png",
+ "imageheight":305,
+ "imagewidth":458,
+ "margin":0,
+ "name":"personalproject_indoor-Matthew",
+ "spacing":1,
+ "tilecount":486,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}
