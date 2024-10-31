@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"..\/..\/lesson 17\/asset\/mystic_woods_free_2.2\/sprites\/tilesets\/grass.png",
+ "imageheight":16,
+ "imagewidth":16,
+ "margin":0,
+ "name":"grass",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

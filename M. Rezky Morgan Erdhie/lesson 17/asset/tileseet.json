@@ -1,0 +1,14 @@
+{ "columns":6,
+ "image":"..\/..\/lesson 17\/asset\/mystic_woods_free_2.2\/sprites\/tilesets\/floors\/carpet.png",
+ "imageheight":128,
+ "imagewidth":96,
+ "margin":0,
+ "name":"carpet",
+ "spacing":0,
+ "tilecount":48,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

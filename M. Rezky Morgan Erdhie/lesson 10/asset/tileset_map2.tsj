@@ -1,0 +1,600 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"tileset_map2",
+ "spacing":0,
+ "tilecount":97,
+ "tiledversion":"1.10.2",
+ "tileheight":1024,
+ "tiles":[
+        {
+         "id":0,
+         "image":"Winter tiles\/caneGreen.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":1,
+         "image":"Winter tiles\/caneGreenSmall.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":2,
+         "image":"Winter tiles\/caneGreenTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":3,
+         "image":"Winter tiles\/caneGreenTopAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":4,
+         "image":"Winter tiles\/caneRed.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":5,
+         "image":"Winter tiles\/caneRedSmall.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":6,
+         "image":"Winter tiles\/caneRedTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":7,
+         "image":"Winter tiles\/caneRedTopAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":8,
+         "image":"Winter tiles\/deadTree.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":9,
+         "image":"Winter tiles\/iceBlock.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":10,
+         "image":"Winter tiles\/iceBlockAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":11,
+         "image":"Winter tiles\/iceBlockHalf.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":12,
+         "image":"Winter tiles\/iceBlockHalfAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":13,
+         "image":"Winter tiles\/iceWater.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":14,
+         "image":"Winter tiles\/iceWaterAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":15,
+         "image":"Winter tiles\/iceWaterDeep.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":16,
+         "image":"Winter tiles\/iceWaterDeepAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":17,
+         "image":"Winter tiles\/iceWaterDeepStars.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":18,
+         "image":"Winter tiles\/iceWaterDeepStarsAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":19,
+         "image":"Winter tiles\/iceWaterMid.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":20,
+         "image":"Winter tiles\/iceWaterMidAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":21,
+         "image":"Winter tiles\/igloo.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":22,
+         "image":"Winter tiles\/iglooAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":23,
+         "image":"Winter tiles\/iglooDoor.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":24,
+         "image":"Winter tiles\/iglooRoof.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":25,
+         "image":"Winter tiles\/iglooRoofLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":26,
+         "image":"Winter tiles\/iglooRoofRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":27,
+         "image":"Winter tiles\/pineSapling.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":28,
+         "image":"Winter tiles\/pineSaplingAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":29,
+         "image":"Winter tiles\/plant.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":30,
+         "image":"Winter tiles\/plantAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":31,
+         "image":"Winter tiles\/rock.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":32,
+         "image":"Winter tiles\/rockAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":33,
+         "image":"Winter tiles\/snowBall.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":34,
+         "image":"Winter tiles\/snowBallBig.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":35,
+         "image":"Winter tiles\/snowBallBigGround.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":36,
+         "image":"Winter tiles\/snowBallGround.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":37,
+         "image":"Winter tiles\/snowGroundLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":38,
+         "image":"Winter tiles\/snowGroundRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":39,
+         "image":"Winter tiles\/snowHill.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":40,
+         "image":"Winter tiles\/snowHillLow.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":41,
+         "image":"Winter tiles\/snowLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":42,
+         "image":"Winter tiles\/snowMid.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":43,
+         "image":"Winter tiles\/snowRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":44,
+         "image":"Winter tiles\/snowWave.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":45,
+         "image":"Winter tiles\/spikesBottom.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":46,
+         "image":"Winter tiles\/spikesBottomAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":47,
+         "image":"Winter tiles\/spikesBottomAlt2.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":48,
+         "image":"Winter tiles\/spikesTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":49,
+         "image":"Winter tiles\/spikesTopAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":50,
+         "image":"Winter tiles\/spikesTopAlt2.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":51,
+         "image":"Winter tiles\/spikeTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":52,
+         "image":"Winter tiles\/tree.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":53,
+         "image":"Winter tiles\/treeBranchesLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":54,
+         "image":"Winter tiles\/treeBranchesLeftAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":55,
+         "image":"Winter tiles\/treeBranchesLeftSnowAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":56,
+         "image":"Winter tiles\/treeBranchesRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":57,
+         "image":"Winter tiles\/treeBranchesSnowLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":58,
+         "image":"Winter tiles\/treeBranchesSnowRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":59,
+         "image":"Winter tiles\/treeBranchesSnowRightAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":60,
+         "image":"Winter tiles\/treeBranchesSnowRightSnowAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":61,
+         "image":"Winter tiles\/treeTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":62,
+         "image":"Winter tiles\/treeTopSnow.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":63,
+         "image":"Winter tiles\/treeTrunk.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":64,
+         "image":"Winter tiles\/treeTrunkBottom.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":65,
+         "image":"Winter tiles\/treeTrunkBottomAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":66,
+         "image":"Winter tiles\/treeTrunkBottomAlt2.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":67,
+         "image":"Winter tiles\/treeTrunkBottomAlt3.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":68,
+         "image":"Winter tiles\/treeTrunkBranch.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":69,
+         "image":"Winter tiles\/treeTrunkBranchEndLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":70,
+         "image":"Winter tiles\/treeTrunkBranchEndRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":71,
+         "image":"Winter tiles\/treeTrunkBranchLeftAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":72,
+         "image":"Winter tiles\/treeTrunkBranchRightAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":73,
+         "image":"Winter tiles\/treeTrunkSplitLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":74,
+         "image":"Winter tiles\/treeTrunkSplitRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":75,
+         "image":"Winter tiles\/treeTrunkTop.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":76,
+         "image":"Winter tiles\/tundra.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":77,
+         "image":"Winter tiles\/tundraCenter.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":78,
+         "image":"Winter tiles\/tundraCenter_rounded.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":79,
+         "image":"Winter tiles\/tundraCliffLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":80,
+         "image":"Winter tiles\/tundraCliffLeftAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":81,
+         "image":"Winter tiles\/tundraCliffRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":82,
+         "image":"Winter tiles\/tundraCliffRightAlt.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":83,
+         "image":"Winter tiles\/tundraHalf.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":84,
+         "image":"Winter tiles\/tundraHalfLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":85,
+         "image":"Winter tiles\/tundraHalfMid.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":86,
+         "image":"Winter tiles\/tundraHalfRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":87,
+         "image":"Winter tiles\/tundraHillLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":88,
+         "image":"Winter tiles\/tundraHillLeft2.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":89,
+         "image":"Winter tiles\/tundraHillRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":90,
+         "image":"Winter tiles\/tundraHillRight2.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":91,
+         "image":"Winter tiles\/tundraLedgeLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":92,
+         "image":"Winter tiles\/tundraLedgeRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":93,
+         "image":"Winter tiles\/tundraLeft.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":94,
+         "image":"Winter tiles\/tundraMid.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":95,
+         "image":"Winter tiles\/tundraRight.png",
+         "imageheight":70,
+         "imagewidth":70
+        }, 
+        {
+         "id":96,
+         "image":"..\/..\/lesson 9\/asset\/backgroundEmpty.png",
+         "imageheight":1024,
+         "imagewidth":1024
+        }],
+ "tilewidth":1024,
+ "type":"tileset",
+ "version":"1.10"
+}

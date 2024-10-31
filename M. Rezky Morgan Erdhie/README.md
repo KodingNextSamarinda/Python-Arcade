@@ -1,0 +1,1 @@
+This is a folder containing the personal project created by Eky during his time learning in Koding Next Samarinda
