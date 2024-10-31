@@ -1,0 +1,696 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"platform",
+ "spacing":0,
+ "tilecount":113,
+ "tiledversion":"1.10.2",
+ "tileheight":1080,
+ "tiles":[
+        {
+         "id":0,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_001.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":1,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_002.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":2,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_003.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":3,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_004.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":4,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_005.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":5,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_006.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":6,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_007.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":7,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_008.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":8,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_009.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":9,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_010.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":10,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_011.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":11,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_012.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":12,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_013.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":13,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_014.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":14,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_015.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":15,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_016.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":16,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_017.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":17,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_018.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":18,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_019.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":19,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_020.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":20,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_021.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":21,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_022.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":22,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_023.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":23,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_024.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":24,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_025.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":25,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_026.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":26,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_027.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":27,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_028.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":28,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_029.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":29,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_030.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":30,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_031.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":31,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_032.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":32,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_033.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":33,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_034.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":34,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_035.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":35,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_036.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":36,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_037.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":37,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_038.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":38,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_039.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":39,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_040.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":40,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_041.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":41,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_042.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":42,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_043.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":43,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_044.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":44,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_045.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":45,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_046.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":46,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_047.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":47,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_048.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":48,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_049.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":49,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_050.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":50,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_051.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":51,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_052.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":52,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_053.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":53,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_054.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":54,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_055.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":55,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_056.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":56,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_057.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":57,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_058.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":58,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_059.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":59,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_060.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":60,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_061.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":61,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_062.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":62,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_063.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":63,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_064.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":64,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_065.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":65,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_066.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":66,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_067.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":67,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_068.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":68,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_069.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":69,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_070.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":70,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_071.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":71,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_072.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":72,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_073.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":73,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_074.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":74,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_075.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":75,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_076.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":76,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_077.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":77,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_078.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":78,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_079.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":79,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_080.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":80,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_081.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":81,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_082.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":82,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_083.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":83,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_084.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":84,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_085.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":85,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_086.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":86,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_087.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":87,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_088.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":88,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_089.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":89,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_090.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":90,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_091.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":91,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_092.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":92,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_093.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":93,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_094.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":94,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_095.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":95,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_096.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":96,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_097.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":97,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_098.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":98,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_099.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":99,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_100.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":100,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_101.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":101,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_102.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":102,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_103.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":103,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_104.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":104,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_105.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":105,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_106.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":106,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_107.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":107,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_108.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":108,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_109.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":109,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_110.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":110,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_111.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":111,
+         "image":"Y:\/Assets - Python Arcade Games\/Platformer Assets\/Industrial\/PNG\/Retina\/platformIndustrial_112.png",
+         "imageheight":140,
+         "imagewidth":140
+        }, 
+        {
+         "id":112,
+         "image":"fb9a328f04e60709ea66e1c23b85d720.jpg",
+         "imageheight":1080,
+         "imagewidth":1920
+        }],
+ "tilewidth":1920,
+ "type":"tileset",
+ "version":"1.10"
+}
